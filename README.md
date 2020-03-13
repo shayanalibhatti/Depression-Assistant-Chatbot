@@ -8,7 +8,7 @@ The file for jokes is in the repository with over 60 jokes.
 
 ### Results
 Following image shows the working.
-![depression_chatbot_result](https://user-images.githubusercontent.com/41015749/56463390-e8988800-6398-11e9-8af2-69ff42ac7227.jpg)
+![depression_chatbot_result](https://github.com/shayanalibhatti/Depression-Assistant-Chatbot/blob/master/depression_chatbot_result.jpg?raw=true)
 
 ### Conclusion
 I believe that AI can be helpful in curing mental problems. This project uses a neural network based sentiment classifier and extends it to depression assistant entertaining the depressed with jokes. When used in right context it can be really helpful to people.
